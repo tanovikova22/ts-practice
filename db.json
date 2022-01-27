@@ -2,16 +2,16 @@
   "users": [
     {
       "id": 1,
-      "name": "test",
+      "name": "Valery",
       "age": 63
     },
     {
-      "name": "tanya",
+      "name": "Tanya",
       "age": 33,
       "id": 2
     },
     {
-      "name": "tanya",
+      "name": "Masha",
       "age": 33,
       "id": 3
     }
